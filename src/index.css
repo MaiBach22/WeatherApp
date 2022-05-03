@@ -3,9 +3,6 @@
   padding: 0;
 }
 
-:root {
-}
-
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -141,4 +138,25 @@ h3 {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+}
+
+@media (max-width: 35.5em) {
+  .Header {
+    inline-size: 77%;
+    overflow-wrap: break-word;
+    padding: 29px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    height: 322px;
+  }
+  .searchbar {
+    margin-bottom: 20px;
+  }
+  input {
+    margin-bottom: 10px;
+  }
+  .addition {
+    gap: 55%;
+    margin-top: 30px;
+  }
 }
