@@ -13,10 +13,10 @@ I made this project to practice fetching data from API after 1 day learning at s
 
 ## SCREENSHOTS
 
-![alt text](picture/1.jpg)
+![alt text](picture/1.JPG)
 
 ### mobile screen
 
-![alt text](picture/2.jpg)
+![alt text](picture/2.JPG)
 
 
